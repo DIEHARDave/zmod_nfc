@@ -1,5 +1,12 @@
 # zmod_nfc
 
+> **Moved to [FF_NFC](https://github.com/DIEHARDave/FF_NFC).** zmod_nfc is
+> now FF_NFC: one plugin for Zmod and Kiln OS, with the same readers, tag
+> formats, Spoolman handling and `NFC_*` commands. This repository is
+> archived and gets no more updates; printers that follow it keep working on
+> their last version. To move a printer over, see
+> [Moving from zmod_nfc or KILN_NFC](https://github.com/DIEHARDave/FF_NFC#moving-from-zmod_nfc-or-kiln_nfc).
+
 NFC/RFID filament tags and **Spoolman QR labels** for **Zmod** on the
 **Flashforge AD5X** (four-slot IFS) and the **Flashforge Creator 5** (four
 toolheads).
